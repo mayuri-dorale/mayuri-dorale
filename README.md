@@ -29,35 +29,10 @@
 
 
 ---
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://img.shields.io/badge/Public%20Repos-1-green)
-![Followers](https://img.shields.io/badge/Followers-1-blue)
-![Following](https://img.shields.io/badge/Following-0-orange)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayuri-dorale&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
----
-
-## 📝 Recent Activity
-
-- 
-
-
----
-
-## 🌟 Top Projects
-
-
-
-
----
-
 ## 🤝 Connect with Me
 
 Let’s network, collaborate, or exchange ideas:  
  &nbsp;&nbsp;<p align="left"> <a href="https://linkedin.com/in/mayuri-dorale" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/> </a> &nbsp;&nbsp; &nbsp;&nbsp; 
  <a href="mailto:mayuridorale8@gmail.com" target="_blank"> <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email"/> </a> &nbsp;&nbsp; 
-
+ 
+---
