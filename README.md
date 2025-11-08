@@ -1,16 +1,63 @@
-## Hi there 👋
+## Hi, I'm Mayuri 👋
 
-<!--
-**mayuri-dorale/mayuri-dorale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 AI & Data Science Engineering Student   
+🛠️ Architecting full-stack applications enriched with AI/ML capabilities to build meaningful, real-world solutions  
+💻 Sharpening my problem-solving capabilities through steady DSA exploration on LeetCode and deepening my expertise through structured AI/ML learning  
+📈 Always learning. Always improving. Always building.  
 
-Here are some ideas to get you started:
+🌟 Let’s collaborate, innovate, and progress together — the journey has just begun.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+## 🚀 Skills & Technologies
+
+### **Languages**
+[![Languages](https://skillicons.dev/icons?i=java,cpp,py,js&perline=8)](https://skillicons.dev)
+
+### **Frontend**
+[![Frontend](https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind&perline=8)](https://skillicons.dev)
+
+### **Backend**
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,php&perline=8)](https://skillicons.dev)
+
+### **Databases**
+[![Databases](https://skillicons.dev/icons?i=mysql,mongodb&perline=8)](https://skillicons.dev)
+
+### **Tools & Platforms**
+[![Tools](https://skillicons.dev/icons?i=vscode,git,github,anaconda,postman&perline=8)](https://skillicons.dev)
+
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://img.shields.io/badge/Public%20Repos-1-green)
+![Followers](https://img.shields.io/badge/Followers-1-blue)
+![Following](https://img.shields.io/badge/Following-0-orange)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayuri-dorale&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+---
+
+## 📝 Recent Activity
+
+- 
+
+
+---
+
+## 🌟 Top Projects
+
+
+
+
+---
+
+## 🤝 Connect with Me
+
+Let’s network, collaborate, or exchange ideas:  
+ &nbsp;&nbsp;<p align="left"> <a href="https://linkedin.com/in/mayuri-dorale" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/> </a> &nbsp;&nbsp; &nbsp;&nbsp; 
+ <a href="mailto:mayuridorale8@gmail.com" target="_blank"> <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email"/> </a> &nbsp;&nbsp; 
+
